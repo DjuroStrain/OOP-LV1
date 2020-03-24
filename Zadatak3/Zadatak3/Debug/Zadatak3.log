@@ -1,0 +1,6 @@
+﻿  Krug.cpp
+  Zadatak3.cpp
+C:\Users\38599\source\repos\Zadatak3\Zadatak3\Krug.h(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\38599\source\repos\Zadatak3\Zadatak3\Krug.h(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Zadatak3.vcxproj -> C:\Users\38599\source\repos\Zadatak3\Debug\Zadatak3.exe
