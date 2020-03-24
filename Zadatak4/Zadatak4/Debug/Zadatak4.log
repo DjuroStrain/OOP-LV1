@@ -1,0 +1,5 @@
+﻿  Zadatak4.cpp
+C:\Users\38599\source\repos\Zadatak4\Zadatak4\Krug.h(9,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\38599\source\repos\Zadatak4\Zadatak4\Zadatak4.cpp(35,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\38599\source\repos\Zadatak4\Zadatak4\Zadatak4.cpp(38,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  Zadatak4.vcxproj -> C:\Users\38599\source\repos\Zadatak4\Debug\Zadatak4.exe
