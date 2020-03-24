@@ -1,0 +1,6 @@
+﻿  Zadatak8.cpp
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak8\Zadatak8\Zadatak8.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak8\Zadatak8\Zadatak8.cpp(29,6): warning C4101: 'nVeljaca': unreferenced local variable
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak8\Zadatak8\Zadatak8.cpp(30,6): warning C4101: 'nOzujak': unreferenced local variable
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak8\Zadatak8\Zadatak8.cpp(31,6): warning C4101: 'nTravanj': unreferenced local variable
+  Zadatak8.vcxproj -> C:\Users\38599\Desktop\OOP\Lv1\Zadatak8\Debug\Zadatak8.exe

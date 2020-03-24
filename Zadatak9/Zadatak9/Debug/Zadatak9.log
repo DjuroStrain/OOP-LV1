@@ -1,0 +1,4 @@
+﻿  Zadatak9.cpp
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak9\Zadatak9\Zadatak9.cpp(21,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\38599\Desktop\OOP\Lv1\Zadatak9\Zadatak9\Zadatak9.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadatak9.vcxproj -> C:\Users\38599\Desktop\OOP\Lv1\Zadatak9\Debug\Zadatak9.exe
